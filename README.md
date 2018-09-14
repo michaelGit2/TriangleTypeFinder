@@ -11,5 +11,6 @@ Bwibo Ouma Michael
 ### Setup and Implementation
 Have a laptop, SmartPhone or any PDA
 Ensure you have internet connection
+### Link to the live Site
 Enter the following url to get directed to the project website  https://michaelgit2.github.io/TriangleTypeFinder/
 
