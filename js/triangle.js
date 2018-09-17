@@ -17,6 +17,9 @@ result.innerHTML=(" It is an Equilateral Triangle")
 else if (first===second  &&  first!==third || first===third  &&  first!==second || second===third  &&  second!==first){
 result.innerHTML=("It is an Isosceles Triangle")
 }
+else if(first>= (second+third) || second>=(first+third) || third>=(first+second) ){
+result.innerHTML =("Not a triangle")
+}
 
 else if(first!==second && second!==third && first!==third){
 result.innerHTML=("It is a Scalene Triangle")
